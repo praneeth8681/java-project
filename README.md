@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jenkins Pipeline Setup for Basic Java Maven Application
 
 Comprehensive guide to set up a Jenkins pipeline for a basic Java Maven application, including the necessary Java code, `pom.xml`, `Jenkinsfile`, and steps to get everything up and running.
@@ -178,3 +179,7 @@ pipeline {
 - **Notifications**: Add additional steps in the `post` section for notifications or alerts.
 
 This setup will allow Jenkins to automate the build, test, and deployment processes for your basic Java Maven application. Adjust the `Jenkinsfile` and `pom.xml` as needed to fit your specific project requirements.
+=======
+# java-project
+practical pipeline
+>>>>>>> 49d39075461c54dfca26ba3318fa1e5e5ef2a6bc
